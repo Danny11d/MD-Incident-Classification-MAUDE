@@ -47,6 +47,8 @@ The main goal is to demonstrate a simple, interpretable NLP pipeline that can he
 7. Evaluation
    - Compute **classification report** (precision, recall, F1-score) to assess performance.
    - Visualize **confusion matrix** with a heatmap.
+   <img width="548" height="432" alt="matrix" src="https://github.com/user-attachments/assets/d5b19fef-522a-4d8b-8106-625d62cf9d13" />
+
 
 ---
 
